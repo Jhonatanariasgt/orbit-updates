@@ -1,14 +1,14 @@
 {
     "schema":  1,
-    "generated":  "2026-10-15T14:40:36",
+    "generated":  "2026-10-15T15:52:39",
     "packages":  {
                      "system":  {
                                     "version":  "0.3.1",
-                                    "notes":  "Focus completo nos pedais novos, trails sem cauda velha, monitor DSP e Focus do gabinete",
+                                    "notes":  "",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.1-2026.10.15.1440.zip",
-                                                      "sha256":  "a94228a4b988ad6aa368499c8447a1f95c47df0fe519d9ee61ae658abdb6b68e",
+                                                      "path":  "system/ORBIT-Sistema-0.3.1-2026.10.15.1552.zip",
+                                                      "sha256":  "6c55022ecd3cc95a409a33041291177ec132a20638ce128961c303ae6a8cc083",
                                                       "size":  12182316
                                                   }
                                               ]
@@ -23,6 +23,37 @@
                                                      "size":  5262
                                                  }
                                              ]
-                               }
+                               },
+                     "images":  {
+                                    "version":  "2026.10.15.1552",
+                                    "contentHash":  "fdcd23379b657e7760288b3827764b84d2e1bfdb31b9ef71d093f806975aaac1",
+                                    "files":  [
+                                                  {
+                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte1.zip",
+                                                      "sha256":  "35cacc570071ea854889ddd572ab53f238a5e7e908cf1a34c425e8edfff04ddf",
+                                                      "size":  83782363
+                                                  },
+                                                  {
+                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte2.zip",
+                                                      "sha256":  "c53c6fe308674afe439c0794df1f44ce24fea196632191bfbf6c64d71293c4ae",
+                                                      "size":  83505731
+                                                  },
+                                                  {
+                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte3.zip",
+                                                      "sha256":  "a47e8f7e627011b740a7d012d8d4e76bd306afd43ab4c748eef6c3c91a8515d1",
+                                                      "size":  83393448
+                                                  },
+                                                  {
+                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte4.zip",
+                                                      "sha256":  "7b9f52d058c556038ea9ea0d46ca37a56befca4f4aaf6f3c263812743e18e9ad",
+                                                      "size":  83708705
+                                                  },
+                                                  {
+                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte5.zip",
+                                                      "sha256":  "46b8ad7973f3b4dd1bd5c2390d17e3d133f102a20ee1f3b3eaba6b24c5812efa",
+                                                      "size":  43906706
+                                                  }
+                                              ]
+                                }
                  }
 }
