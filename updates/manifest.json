@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-15T14:34:31",
+    "generated":  "2026-10-15T14:40:36",
     "packages":  {
                      "system":  {
                                     "version":  "0.3.1",
                                     "notes":  "Focus completo nos pedais novos, trails sem cauda velha, monitor DSP e Focus do gabinete",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.1-2026.10.15.1434.zip",
-                                                      "sha256":  "00d08c4e635d2a790ccdc4199040cb1fbc6828afdc4176f304a70a2658f1a129",
-                                                      "size":  12182321
+                                                      "path":  "system/ORBIT-Sistema-0.3.1-2026.10.15.1440.zip",
+                                                      "sha256":  "a94228a4b988ad6aa368499c8447a1f95c47df0fe519d9ee61ae658abdb6b68e",
+                                                      "size":  12182316
                                                   }
                                               ]
                                 },
