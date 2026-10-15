@@ -1,0 +1,28 @@
+﻿{
+    "schema":  1,
+    "generated":  "2026-10-15T10:38:57",
+    "packages":  {
+                     "system":  {
+                                    "version":  "0.3.0",
+                                    "notes":  "Instalador, atualizacao automatica e protocolo de interfaces e pedaleiras (TANK-G / TANK-B)",
+                                    "files":  [
+                                                  {
+                                                      "path":  "system/ORBIT-Sistema-0.3.0.zip",
+                                                      "sha256":  "421a3a5edcea5a74ebf4c473a60d35c35ad1115e52912dffa871f211095008e7",
+                                                      "size":  12031028
+                                                  }
+                                              ]
+                                },
+                     "tones":  {
+                                   "version":  "2026.10.15.1038",
+                                   "contentHash":  "e5e4c1fe6c1c9206e37e249f5c5fcd909d94573cb16d0824bf201591d6248f27",
+                                   "files":  [
+                                                 {
+                                                     "path":  "tones/ORBIT-Timbres-2026.10.15.1038.zip",
+                                                     "sha256":  "1c23cfcf01304ede2fd16d04458d54637e99e0837e4492593c3287dec593db3b",
+                                                     "size":  5262
+                                                 }
+                                             ]
+                               }
+                 }
+}
