@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-16T01:05:22",
+    "generated":  "2026-10-16T17:08:11",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.2",
-                                    "notes":  "",
+                                    "version":  "0.3.3",
+                                    "notes":  "Menus do botao direito no visual ORBIT; Particle Verb Stable sem transposicao",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.2-2026.10.16.0105.zip",
-                                                      "sha256":  "3a060d06de82592ff60bc812a3c40bd26a9f862273821adced02dbb6d82e7b61",
-                                                      "size":  12205706
+                                                      "path":  "system/ORBIT-Sistema-0.3.3-2026.10.16.1708.zip",
+                                                      "sha256":  "3a00e11d0016799b46f76b76e94db3558ee33b620401cdc0952ab74aebf29ac9",
+                                                      "size":  12213573
                                                   }
                                               ]
                                 },
