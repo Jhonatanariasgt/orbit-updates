@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-15T16:13:34",
+    "generated":  "2026-10-16T01:05:22",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.1",
+                                    "version":  "0.3.2",
                                     "notes":  "",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.1-2026.10.15.1613.zip",
-                                                      "sha256":  "76b66e13920139e2b294d0019f6457c32927a39946dfbb90537fa1259f0a5cf2",
-                                                      "size":  12182318
+                                                      "path":  "system/ORBIT-Sistema-0.3.2-2026.10.16.0105.zip",
+                                                      "sha256":  "3a060d06de82592ff60bc812a3c40bd26a9f862273821adced02dbb6d82e7b61",
+                                                      "size":  12205706
                                                   }
                                               ]
                                 },
