@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-16T17:08:11",
+    "generated":  "2026-10-16T17:44:43",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.3",
-                                    "notes":  "Menus do botao direito no visual ORBIT; Particle Verb Stable sem transposicao",
+                                    "version":  "0.3.4",
+                                    "notes":  "Menus do botao direito no visual ORBIT; atualizador nao falha mais com a DAW aberta",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.3-2026.10.16.1708.zip",
-                                                      "sha256":  "3a00e11d0016799b46f76b76e94db3558ee33b620401cdc0952ab74aebf29ac9",
-                                                      "size":  12213573
+                                                      "path":  "system/ORBIT-Sistema-0.3.4-2026.10.16.1744.zip",
+                                                      "sha256":  "a808336282159097bd0ef7486fad188dc59b4bf77a3575eee1f8fc6d4a172e13",
+                                                      "size":  12215624
                                                   }
                                               ]
                                 },
