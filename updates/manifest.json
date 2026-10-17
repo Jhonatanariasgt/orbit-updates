@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-17T09:47:54",
+    "generated":  "2026-10-17T10:32:49",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.5",
-                                    "notes":  "Cadeia: botao + no meio do vao entre blocos tambem nas linhas paralelas",
+                                    "version":  "0.3.6",
+                                    "notes":  "Instalador novo (Inno Setup) e launcher nativo: o antivirus nao barra mais o ORBIT",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.5-2026.10.17.0947.zip",
-                                                      "sha256":  "7a537434de2041609d0ea56d8b34c179a42a19e23c1d52d6df1b60e8bcbcebe5",
-                                                      "size":  12215763
+                                                      "path":  "system/ORBIT-Sistema-0.3.6-2026.10.17.1032.zip",
+                                                      "sha256":  "f73f3e66df02a022783cf16eff27ddfc6f44e649d438e6165b15e60a2f27d844",
+                                                      "size":  12346550
                                                   }
                                               ]
                                 },
