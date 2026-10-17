@@ -1,15 +1,15 @@
 {
     "schema":  1,
-    "generated":  "2026-10-16T17:44:43",
+    "generated":  "2026-10-17T09:47:54",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.4",
-                                    "notes":  "Menus do botao direito no visual ORBIT; atualizador nao falha mais com a DAW aberta",
+                                    "version":  "0.3.5",
+                                    "notes":  "Cadeia: botao + no meio do vao entre blocos tambem nas linhas paralelas",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.4-2026.10.16.1744.zip",
-                                                      "sha256":  "a808336282159097bd0ef7486fad188dc59b4bf77a3575eee1f8fc6d4a172e13",
-                                                      "size":  12215624
+                                                      "path":  "system/ORBIT-Sistema-0.3.5-2026.10.17.0947.zip",
+                                                      "sha256":  "7a537434de2041609d0ea56d8b34c179a42a19e23c1d52d6df1b60e8bcbcebe5",
+                                                      "size":  12215763
                                                   }
                                               ]
                                 },
