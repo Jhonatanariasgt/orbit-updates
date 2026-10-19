@@ -1,26 +1,26 @@
 {
     "schema":  1,
-    "generated":  "2026-10-19T11:20:31",
+    "generated":  "2026-10-19T14:40:52",
     "packages":  {
                      "system":  {
                                     "version":  "0.3.7",
-                                    "notes":  "Tremolos e modulacoes corrigidos (mistura e profundidade), microfones dos cabs remodelados, cauda do Bloom, Focus com 5 timbres proprios por pedal, campo de BPM/tap na barra superior, 12 maquinas Mobius e presets de artistas (DeLeo, David Hislop, John Mayer, Mateus Asato, Sefer Dillan, Andrew Gouche, Junior Braguinha).",
+                                    "notes":  "Timbres: Deleo (Ruby + Dream em estereo) e Marcelo Cidrack; amps dos presets de artistas com ajustes de referencia",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.7-2026.10.19.1120.zip",
-                                                      "sha256":  "898d156acaa7ab51c97bddb8858c6621f1ea4839964bbed4388cc0ce3802971c",
+                                                      "path":  "system/ORBIT-Sistema-0.3.7-2026.10.19.1440.zip",
+                                                      "sha256":  "e38e98d9101e299162e51f791944218c42a67fffb4d795e4026ee943865b3c2f",
                                                       "size":  12769662
                                                   }
                                               ]
                                 },
                      "tones":  {
-                                   "version":  "2026.10.19.1120",
-                                   "contentHash":  "1687e769ac56f19f28806b13f3fdf463dc23ba446f8626e9baaa359998515870",
+                                   "version":  "2026.10.19.1440",
+                                   "contentHash":  "85dd24f73ec9659d6a86fdbb286c34714759576cd31ab0036b6c22db295644ad",
                                    "files":  [
                                                  {
-                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1120.zip",
-                                                     "sha256":  "0ddc6cafa38c0d6b8c3a0c8cb6ed7ae528d96aa4cf1d2b9bf56f09d5b9f91eb5",
-                                                     "size":  22482
+                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1440.zip",
+                                                     "sha256":  "1f924c0525b81d8301fd97b061ad5a7b10a4f6471b69fb8e8eac04671c3e18e0",
+                                                     "size":  22734
                                                  }
                                              ]
                                },
