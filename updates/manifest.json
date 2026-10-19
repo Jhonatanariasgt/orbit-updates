@@ -1,26 +1,26 @@
 {
     "schema":  1,
-    "generated":  "2026-10-19T14:40:52",
+    "generated":  "2026-10-19T16:21:19",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.7",
-                                    "notes":  "Timbres: Deleo (Ruby + Dream em estereo) e Marcelo Cidrack; amps dos presets de artistas com ajustes de referencia",
+                                    "version":  "0.3.8",
+                                    "notes":  "Presets separados em guitarra e baixo (ALL / GUITAR / BASS); baixistas Elevation (David Curran) e Bethel (Brandon Trevino); Deleo e Marcelo Cidrack",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.7-2026.10.19.1440.zip",
-                                                      "sha256":  "e38e98d9101e299162e51f791944218c42a67fffb4d795e4026ee943865b3c2f",
-                                                      "size":  12769662
+                                                      "path":  "system/ORBIT-Sistema-0.3.8-2026.10.19.1621.zip",
+                                                      "sha256":  "0910c9527e44241cc9f65bb347f4fca41093c2e982e67a5d9f148320e224d057",
+                                                      "size":  12774120
                                                   }
                                               ]
                                 },
                      "tones":  {
-                                   "version":  "2026.10.19.1440",
-                                   "contentHash":  "85dd24f73ec9659d6a86fdbb286c34714759576cd31ab0036b6c22db295644ad",
+                                   "version":  "2026.10.19.1621",
+                                   "contentHash":  "285b6fea43293bfab92402f49857693a84591d2b197e40ed6f1339518d7d14df",
                                    "files":  [
                                                  {
-                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1440.zip",
-                                                     "sha256":  "1f924c0525b81d8301fd97b061ad5a7b10a4f6471b69fb8e8eac04671c3e18e0",
-                                                     "size":  22734
+                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1621.zip",
+                                                     "sha256":  "f1442a3a321bec246e3d39116bacbb06dc68220875ee358030409737e696d6c5",
+                                                     "size":  26233
                                                  }
                                              ]
                                },
