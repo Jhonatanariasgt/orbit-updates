@@ -1,26 +1,26 @@
 {
     "schema":  1,
-    "generated":  "2026-10-17T10:32:49",
+    "generated":  "2026-10-19T11:20:31",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.6",
-                                    "notes":  "Instalador novo (Inno Setup) e launcher nativo: o antivirus nao barra mais o ORBIT",
+                                    "version":  "0.3.7",
+                                    "notes":  "Tremolos e modulacoes corrigidos (mistura e profundidade), microfones dos cabs remodelados, cauda do Bloom, Focus com 5 timbres proprios por pedal, campo de BPM/tap na barra superior, 12 maquinas Mobius e presets de artistas (DeLeo, David Hislop, John Mayer, Mateus Asato, Sefer Dillan, Andrew Gouche, Junior Braguinha).",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.6-2026.10.17.1032.zip",
-                                                      "sha256":  "f73f3e66df02a022783cf16eff27ddfc6f44e649d438e6165b15e60a2f27d844",
-                                                      "size":  12346550
+                                                      "path":  "system/ORBIT-Sistema-0.3.7-2026.10.19.1120.zip",
+                                                      "sha256":  "898d156acaa7ab51c97bddb8858c6621f1ea4839964bbed4388cc0ce3802971c",
+                                                      "size":  12769662
                                                   }
                                               ]
                                 },
                      "tones":  {
-                                   "version":  "2026.10.15.1038",
-                                   "contentHash":  "e5e4c1fe6c1c9206e37e249f5c5fcd909d94573cb16d0824bf201591d6248f27",
+                                   "version":  "2026.10.19.1120",
+                                   "contentHash":  "1687e769ac56f19f28806b13f3fdf463dc23ba446f8626e9baaa359998515870",
                                    "files":  [
                                                  {
-                                                     "path":  "tones/ORBIT-Timbres-2026.10.15.1038.zip",
-                                                     "sha256":  "1c23cfcf01304ede2fd16d04458d54637e99e0837e4492593c3287dec593db3b",
-                                                     "size":  5262
+                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1120.zip",
+                                                     "sha256":  "0ddc6cafa38c0d6b8c3a0c8cb6ed7ae528d96aa4cf1d2b9bf56f09d5b9f91eb5",
+                                                     "size":  22482
                                                  }
                                              ]
                                },
