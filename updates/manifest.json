@@ -1,57 +1,57 @@
 {
     "schema":  1,
-    "generated":  "2026-10-19T16:21:19",
+    "generated":  "2026-10-19T21:32:52",
     "packages":  {
                      "system":  {
-                                    "version":  "0.3.8",
-                                    "notes":  "Presets separados em guitarra e baixo (ALL / GUITAR / BASS); baixistas Elevation (David Curran) e Bethel (Brandon Trevino); Deleo e Marcelo Cidrack",
+                                    "version":  "0.3.9",
+                                    "notes":  "",
                                     "files":  [
                                                   {
-                                                      "path":  "system/ORBIT-Sistema-0.3.8-2026.10.19.1621.zip",
-                                                      "sha256":  "0910c9527e44241cc9f65bb347f4fca41093c2e982e67a5d9f148320e224d057",
-                                                      "size":  12774120
+                                                      "path":  "system/ORBIT-Sistema-0.3.9-2026.10.19.2132.zip",
+                                                      "sha256":  "97e9dc6ab6bc220ff3d96733a554fafe01356372b65774d2f13a364ea8ad94e8",
+                                                      "size":  12876277
                                                   }
                                               ]
                                 },
                      "tones":  {
-                                   "version":  "2026.10.19.1621",
-                                   "contentHash":  "285b6fea43293bfab92402f49857693a84591d2b197e40ed6f1339518d7d14df",
+                                   "version":  "2026.10.19.2132",
+                                   "contentHash":  "175c5501ac502164807a83999c17dd4002928a5bcd12be1026d1b8c53affa734",
                                    "files":  [
                                                  {
-                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.1621.zip",
-                                                     "sha256":  "f1442a3a321bec246e3d39116bacbb06dc68220875ee358030409737e696d6c5",
-                                                     "size":  26233
+                                                     "path":  "tones/ORBIT-Timbres-2026.10.19.2132.zip",
+                                                     "sha256":  "d9e4587d02353ba149cb5fe732c47a9f9d3be252a14c5badc027848c0125702d",
+                                                     "size":  30563
                                                  }
                                              ]
                                },
                      "images":  {
-                                    "version":  "2026.10.15.1552",
-                                    "contentHash":  "fdcd23379b657e7760288b3827764b84d2e1bfdb31b9ef71d093f806975aaac1",
+                                    "version":  "2026.10.19.2132",
+                                    "contentHash":  "edc0af9b5bfbf0f5541d1d3da1809b0d34e595261cb17290de231870be54a709",
                                     "files":  [
                                                   {
-                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte1.zip",
-                                                      "sha256":  "35cacc570071ea854889ddd572ab53f238a5e7e908cf1a34c425e8edfff04ddf",
-                                                      "size":  83782363
+                                                      "path":  "images/ORBIT-Imagens-2026.10.19.2132-parte1.zip",
+                                                      "sha256":  "3eaca65f76c76bf91d05d9abd4962f38d0aded17329f96a0126304a874f405ff",
+                                                      "size":  83652106
                                                   },
                                                   {
-                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte2.zip",
-                                                      "sha256":  "c53c6fe308674afe439c0794df1f44ce24fea196632191bfbf6c64d71293c4ae",
-                                                      "size":  83505731
+                                                      "path":  "images/ORBIT-Imagens-2026.10.19.2132-parte2.zip",
+                                                      "sha256":  "33de5f5d61e7ea83278903dec08ed6a8d8057046b18da4b70f584ce15993a31d",
+                                                      "size":  81183317
                                                   },
                                                   {
-                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte3.zip",
-                                                      "sha256":  "a47e8f7e627011b740a7d012d8d4e76bd306afd43ab4c748eef6c3c91a8515d1",
-                                                      "size":  83393448
+                                                      "path":  "images/ORBIT-Imagens-2026.10.19.2132-parte3.zip",
+                                                      "sha256":  "13571f4a1647b45ceec768addcd4d17f48d286dc99296ca3140ecd98861cc2bc",
+                                                      "size":  83779281
                                                   },
                                                   {
-                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte4.zip",
-                                                      "sha256":  "7b9f52d058c556038ea9ea0d46ca37a56befca4f4aaf6f3c263812743e18e9ad",
-                                                      "size":  83708705
+                                                      "path":  "images/ORBIT-Imagens-2026.10.19.2132-parte4.zip",
+                                                      "sha256":  "2ca71f4f50bcadea16d2ca14f07702b093073682ef198d1f54e73c8c30b30964",
+                                                      "size":  83388762
                                                   },
                                                   {
-                                                      "path":  "images/ORBIT-Imagens-2026.10.15.1552-parte5.zip",
-                                                      "sha256":  "46b8ad7973f3b4dd1bd5c2390d17e3d133f102a20ee1f3b3eaba6b24c5812efa",
-                                                      "size":  43906706
+                                                      "path":  "images/ORBIT-Imagens-2026.10.19.2132-parte5.zip",
+                                                      "sha256":  "970bc7a0c683c780d71c7662147ffc7d9c4abb3467d55f136bf1ff6acc7f4e3b",
+                                                      "size":  82984605
                                                   }
                                               ]
                                 }
